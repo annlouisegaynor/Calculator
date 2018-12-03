@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="button_0">CERO \n (0)</string>
+    <string name="button_1">UNO \n (1)</string>
+    <string name="button_2">DOS \n (2)</string>
+    <string name="button_3">TRES \n (3)</string>
+    <string name="button_4">CUATRO \n (4)</string>
+    <string name="button_5">CINCO \n (5)</string>
+    <string name="button_6">SEIS \n (6)</string>
+    <string name="button_7">SIETE \n (7)</string>
+    <string name="button_8">OCHO \n (8)</string>
+    <string name="button_9">NUEVE \n (9)</string>
+
+    <string name="button_plus">MAS \n (+)</string>
+    <string name="button_equals">ES IGUAL A \n (=)</string>
+</resources>
